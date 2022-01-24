@@ -1,0 +1,6 @@
+PORT = ":8080"
+
+[MONGODB]
+URL = "mongodb://localhost:27017"
+DATABASE = "userInfo"
+COLL = "users"
